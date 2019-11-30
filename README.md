@@ -12,16 +12,16 @@ Thanks to all the attendees of SPSBangalore.  Here, we are sharing the Presentat
 |:---:|:------|:-----------|:---------|:------------|
 | 1 | Keynote | Tracy Van der Schyff | Keynote Speech | [SlideShare](https://www.slideshare.net/TracyVanDerSchyff/microsoft-office-365-the-what-how-why  "Tracy's Personal SlideShare")  |
 | 2 | Developer | Dipti Chhatrapati & Manoj Mittal | Grow your SharePoint development platform with SharePoint Framework | TDB |
-| 3 | ITPro | Nitin Sharma | SharePoint Product Updates and Roadmap from Ignite 2019 | TDB |
-| 4 | Developer | Jayakumar Balasubramaniam | Leverage SharePoint Framework (SPFx) development using Microsoft Graph API | TDB |
-| 5 | ITPro | Jenkins NS | Architecting your Intranet with SharePoint Modernization | TDB |
-| 6 | Developer | Ram Prasad Meenavalli | Provisioning Modern Site using Site Scripts and Site Designs | TDB |
-| 7 | ITPro | Yash Agarwal | Modernize Business Process with SharePoint Online & Power Platform | TDB |
-| 8 | Developer | SkandaRamana Suryanarayana | Make $$$ with Azure Cognitive Services and Photography | TDB |
-| 9 | ITPro | Jasjit Chopra | Mastering SharePoint as back end data store in Power Apps | TDB |
-| 10 | Developer | Vijai Anand Ramalingam and Vignesh Ganesan | Building Engaging Business Solutions for Microsoft Teams and SharePoint using SPFx | TDB |
-| 11 | ITPro | Mitul Rana | Bringing AI to Business Users with Power Platform | TDB |
-| 12 | Developer | Nanddeep Nachan & Smita Nachan | Continuous Integration for SharePoint Framework Solutions on Azure DevOps | TDB |
+| 3 | Developer | Jayakumar Balasubramaniam | Leverage SharePoint Framework (SPFx) development using Microsoft Graph API | TDB |
+| 4 | Developer | Ram Prasad Meenavalli | Provisioning Modern Site using Site Scripts and Site Designs | TDB |
+| 5 | Developer | SkandaRamana Suryanarayana | Make $$$ with Azure Cognitive Services and Photography | TDB |
+| 6 | Developer | Vijai Anand Ramalingam and Vignesh Ganesan | Building Engaging Business Solutions for Microsoft Teams and SharePoint using SPFx | TDB |
+| 7 | Developer | Nanddeep Nachan & Smita Nachan | Continuous Integration for SharePoint Framework Solutions on Azure DevOps | TDB |
+| 8 | ITPro | Nitin Sharma | SharePoint Product Updates and Roadmap from Ignite 2019 | TDB |
+| 9 | ITPro | Jenkins NS | Architecting your Intranet with SharePoint Modernization | TDB |
+| 10 | ITPro | Yash Agarwal | Modernize Business Process with SharePoint Online & Power Platform | TDB |
+| 11 | ITPro | Jasjit Chopra | Mastering SharePoint as back end data store in Power Apps | TDB |
+| 12 | ITPro | Mitul Rana | Bringing AI to Business Users with Power Platform | TDB |
 | 13 | ITPro | Chendrayan V | Business Process Automation using PowerShell with SharePoint | TDB |
 
 ## Event Photos
