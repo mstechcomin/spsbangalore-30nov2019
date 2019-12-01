@@ -25,7 +25,7 @@ Thanks to all the attendees of SPSBangalore.  Here, we are sharing the Presentat
 | 13 | ITPro | Chendrayan V | Business Process Automation using PowerShell with SharePoint | TDB |
 
 ## Event Photos
-Event Photos are uploaded on SPBangalore Facebook Group.  You can find them here in this [Facebook Group Photo Album].(https://www.facebook.com/media/set/?set=oa.2455615804681191&type=3 "Facebook") 
+Event Photos are uploaded on SPBangalore Facebook Group.  You can find them here in this [Facebook Group Photo Album](https://www.facebook.com/media/set/?set=oa.2455615804681191&type=3 "Facebook Group Photo Album"). 
 
 ## SharePoint/Office365/Microsoft User Groups in Bangalore
 These are links to Microsoft Technology related User Groups that runs in-person / online meetups.
