@@ -18,7 +18,7 @@ Thanks to all the attendees of SPSBangalore.  Here, we are sharing the Presentat
 | 6 | Developer | Vijai Anand Ramalingam and Vignesh Ganesan | Building Engaging Business Solutions for Microsoft Teams and SharePoint using SPFx | TDB |
 | 7 | Developer | Nanddeep Nachan & Smita Nachan | Continuous Integration for SharePoint Framework Solutions on Azure DevOps | TDB |
 | 8 | ITPro | Nitin Sharma | SharePoint Product Updates and Roadmap from Ignite 2019 | TDB |
-| 9 | ITPro | Jenkins NS | Architecting your Intranet with SharePoint Modernization | TDB |
+| 9 | ITPro | Jenkins NS | Architecting your Intranet with SharePoint Modernization | [SlideShare](https://www.slideshare.net/JenkinsNs/architecting-your-intranet-with-sharepoint-modernization "Jenkin's Personal SlideShare") |
 | 10 | ITPro | Yash Agarwal | Modernize Business Process with SharePoint Online & Power Platform | TDB |
 | 11 | ITPro | Jasjit Chopra | Mastering SharePoint as back end data store in Power Apps | TDB |
 | 12 | ITPro | Mitul Rana | Bringing AI to Business Users with Power Platform | TDB |
