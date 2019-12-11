@@ -21,7 +21,7 @@ Thanks to all the attendees of SPSBangalore.  Here, we are sharing the Presentat
 | 9 | ITPro | Jenkins NS | Architecting your Intranet with SharePoint Modernization | [SlideShare](https://www.slideshare.net/JenkinsNs/architecting-your-intranet-with-sharepoint-modernization "Jenkin's Personal SlideShare") |
 | 10 | ITPro | Yash Agarwal | Modernize Business Process with SharePoint Online & Power Platform | TDB |
 | 11 | ITPro | Jasjit Chopra | Mastering SharePoint as back end data store in Power Apps | TDB |
-| 12 | ITPro | Mitul Rana | Bringing AI to Business Users with Power Platform | TDB |
+| 12 | ITPro | Mitul Rana | Bringing AI to Business Users with Power Platform | [SlideShare](https://www.slideshare.net/mitul2020/bringing-artificial-intelligence-ai-to-business-users-with-microsoft-power-platform "Mitul's Personal SlideShare") [Code](https://github.com/mitul1986/AIBuilderStartupKit "Mitul's GitHub") |
 | 13 | ITPro | Chendrayan V | Business Process Automation using PowerShell with SharePoint | TDB |
 
 ## Event Photos
