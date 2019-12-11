@@ -12,7 +12,7 @@ Thanks to all the attendees of SPSBangalore.  Here, we are sharing the Presentat
 |:---:|:------|:-----------|:---------|:------------|
 | 1 | Keynote | Tracy Van der Schyff | Keynote Speech | [SlideShare](https://www.slideshare.net/TracyVanDerSchyff/microsoft-office-365-the-what-how-why  "Tracy's Personal SlideShare")  |
 | 2 | Developer | Dipti Chhatrapati & Manoj Mittal | Grow your SharePoint development platform with SharePoint Framework | TDB |
-| 3 | Developer | Jayakumar Balasubramaniam | Leverage SharePoint Framework (SPFx) development using Microsoft Graph API | TDB |
+| 3 | Developer | Jayakumar Balasubramaniam | Leverage SharePoint Framework (SPFx) development using Microsoft Graph API | [OneDrive](https://1drv.ms/p/s!AhFAjmMnFvLPhLx7BWkgoPXUZi90RQ?e=tSachF "Jayakumar's Personal OneDrive") |
 | 4 | Developer | Ram Prasad Meenavalli | Provisioning Modern Site using Site Scripts and Site Designs | TDB |
 | 5 | Developer | SkandaRamana Suryanarayana | Make $$$ with Azure Cognitive Services and Photography | TDB |
 | 6 | Developer | Vijai Anand Ramalingam and Vignesh Ganesan | Building Engaging Business Solutions for Microsoft Teams and SharePoint using SPFx | TDB |
@@ -20,8 +20,8 @@ Thanks to all the attendees of SPSBangalore.  Here, we are sharing the Presentat
 | 8 | ITPro | Nitin Sharma | SharePoint Product Updates and Roadmap from Ignite 2019 | TDB |
 | 9 | ITPro | Jenkins NS | Architecting your Intranet with SharePoint Modernization | [SlideShare](https://www.slideshare.net/JenkinsNs/architecting-your-intranet-with-sharepoint-modernization "Jenkin's Personal SlideShare") |
 | 10 | ITPro | Yash Agarwal | Modernize Business Process with SharePoint Online & Power Platform | TDB |
-| 11 | ITPro | Jasjit Chopra | Mastering SharePoint as back end data store in Power Apps | TDB |
-| 12 | ITPro | Mitul Rana | Bringing AI to Business Users with Power Platform | [SlideShare](https://www.slideshare.net/mitul2020/bringing-artificial-intelligence-ai-to-business-users-with-microsoft-power-platform "Mitul's Personal SlideShare") [Code](https://github.com/mitul1986/AIBuilderStartupKit "Mitul's GitHub") |
+| 11 | ITPro | Jasjit Chopra | Mastering SharePoint as back end data store in Power Apps | N/A |
+| 12 | ITPro | Mitul Rana | Bringing AI to Business Users with Power Platform | [SlideShare](https://www.slideshare.net/mitul2020/bringing-artificial-intelligence-ai-to-business-users-with-microsoft-power-platform "Mitul's Personal SlideShare") / [Code](https://github.com/mitul1986/AIBuilderStartupKit "Mitul's GitHub") |
 | 13 | ITPro | Chendrayan V | Business Process Automation using PowerShell with SharePoint | TDB |
 
 ## Event Photos
