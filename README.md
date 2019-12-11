@@ -11,12 +11,12 @@ Thanks to all the attendees of SPSBangalore.  Here, we are sharing the Presentat
 | Sl# | Track | Speaker Name | Session Title | Presentation / Links |
 |:---:|:------|:-----------|:---------|:------------|
 | 1 | Keynote | Tracy Van der Schyff | Keynote Speech | [SlideShare](https://www.slideshare.net/TracyVanDerSchyff/microsoft-office-365-the-what-how-why  "Tracy's Personal SlideShare")  |
-| 2 | Developer | Dipti Chhatrapati & Manoj Mittal | Grow your SharePoint development platform with SharePoint Framework | TDB |
+| 2 | Developer | Dipti Chhatrapati & Manoj Mittal | Grow your SharePoint development platform with SharePoint Framework | [SlideShare](https://www.slideshare.net/DiptiChhatrapati/grow-your-sharepoint-development-platform-with-spfx "Dipti's Personal SlideShare") |
 | 3 | Developer | Jayakumar Balasubramaniam | Leverage SharePoint Framework (SPFx) development using Microsoft Graph API | [OneDrive](https://1drv.ms/p/s!AhFAjmMnFvLPhLx7BWkgoPXUZi90RQ?e=tSachF "Jayakumar's Personal OneDrive") |
-| 4 | Developer | Ram Prasad Meenavalli | Provisioning Modern Site using Site Scripts and Site Designs | TDB |
-| 5 | Developer | SkandaRamana Suryanarayana | Make $$$ with Azure Cognitive Services and Photography | TDB |
-| 6 | Developer | Vijai Anand Ramalingam and Vignesh Ganesan | Building Engaging Business Solutions for Microsoft Teams and SharePoint using SPFx | TDB |
-| 7 | Developer | Nanddeep Nachan & Smita Nachan | Continuous Integration for SharePoint Framework Solutions on Azure DevOps | TDB |
+| 4 | Developer | Ram Prasad Meenavalli | Provisioning Modern Site using Site Scripts and Site Designs | [SlideShare](https://drive.google.com/file/d/1ug3UasxPoXeWjfp5oIZbRTTiz8z0FeLX/view?usp=sharing "Ram Prasad's Personal Google Drive") |
+| 5 | Developer | SkandaRamana Suryanarayana | Make $$$ with Azure Cognitive Services and Photography | [SlideShare](https://www.slideshare.net/ramana16/sps-bangalore2019-make-with-photography-and-azure-cognitive-services "Ramana's Personal SlideShare") |
+| 6 | Developer | Vijai Anand Ramalingam and Vignesh Ganesan | Building Engaging Business Solutions for Microsoft Teams and SharePoint using SPFx | [SlideShare](https://www.slideshare.net/VigneshGanesanMCPMCI/building-solutions-with-spfx-that-work-across-sharepoint-and-teams "Vignesh's Personal SlideShare") |
+| 7 | Developer | Nanddeep Nachan & Smita Nachan | Continuous Integration for SharePoint Framework Solutions on Azure DevOps | [SlideShare](https://www.slideshare.net/secret/ARSSMYGlvMZvgh "Nanddeep's Personal SlideShare") |
 | 8 | ITPro | Nitin Sharma | SharePoint Product Updates and Roadmap from Ignite 2019 | TDB |
 | 9 | ITPro | Jenkins NS | Architecting your Intranet with SharePoint Modernization | [SlideShare](https://www.slideshare.net/JenkinsNs/architecting-your-intranet-with-sharepoint-modernization "Jenkin's Personal SlideShare") |
 | 10 | ITPro | Yash Agarwal | Modernize Business Process with SharePoint Online & Power Platform | TDB |
