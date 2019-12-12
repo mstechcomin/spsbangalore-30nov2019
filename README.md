@@ -1,7 +1,5 @@
 # SharePoint Saturday Bangalore (30-Nov-2019)
 
-# NOTE - This page is under updation... 
-
 Thanks to all the attendees of SPSBangalore.  Here, we are sharing the Presentation links from all Speakers. Reach out to us on Twitter [@SPSBangalore](https://twitter.com/spsbangalore "SharePoint Saturday Bangalore") for any further inputs (Hash tag #SPSBangalore).
 
 ## Session Presentations
